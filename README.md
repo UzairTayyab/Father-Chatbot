@@ -1,6 +1,6 @@
 # Father Chatbot
 
-A Python-based interactive chatbot project created to represent the personality, professional background, and life values of my father. This project demonstrates the use of basic control flow, string manipulation and keyword based response logic.
+A Python based interactive chatbot project created to represent the personality, professional background, and life values of my father. This project demonstrates the use of basic control flow, string manipulation and keyword based response logic.
 
 ## Project Overview
 This chatbot acts as a digital persona. It is designed to provide information about my father's life including his profession as a teacher, his educational background, personal hobbies like cooking and family traditions through a simple conversational interface.
@@ -13,7 +13,7 @@ This chatbot acts as a digital persona. It is designed to provide information ab
 
 ## Prerequisites
 To run this project, you need:
-- **Python 3.x** installed on your system.
+- **Python** installed on your system.
 
 ## How to Run
 1. Clone this repository or download the `main.py` file.
